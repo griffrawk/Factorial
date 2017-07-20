@@ -1,2 +1,2 @@
-#Factorial
+## Factorial
 Factorial in Swift
