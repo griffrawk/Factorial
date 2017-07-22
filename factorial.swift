@@ -3,5 +3,5 @@ func factorial(n: Int) -> Int {
     return n * factorial(n: n - 1)
 }
 
-let number = 4
+let number = 8
 print("\(number)! is equal to \(factorial(n: number))")
